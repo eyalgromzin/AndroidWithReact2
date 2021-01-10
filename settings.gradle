@@ -1,0 +1,2 @@
+include ':app', ':weatherlibrary'
+rootProject.name='AndroidWithReact2'
